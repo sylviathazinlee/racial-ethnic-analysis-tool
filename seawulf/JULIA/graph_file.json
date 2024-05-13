@@ -1,0 +1,12 @@
+{
+    "nodes": [
+        {"id": 1, "population_field": 500, "dem_vote_field": 200, "rep_vote_field": 300, "assignment_field": 1},
+        {"id": 2, "population_field": 600, "dem_vote_field": 300, "rep_vote_field": 300, "assignment_field": 1},
+        {"id": 3, "population_field": 550, "dem_vote_field": 250, "rep_vote_field": 300, "assignment_field": 2}
+    ],
+    "edges": [
+        {"source": 1, "target": 2},
+        {"source": 2, "target": 3},
+        {"source": 3, "target": 1}
+    ]
+}
