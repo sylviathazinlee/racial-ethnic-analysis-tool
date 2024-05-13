@@ -1,0 +1,25 @@
+{
+    "number_of_plans": 5000,
+    "population_equality_threshold": 0.25,
+    "maximum_democratic_winners": 114,
+    "maximum_republican_winners": 46,
+    "minimum_democratic_winners": 104,
+    "minimum_republican_winners": 36,
+    "average_democratic_district_wins": 109.7404,
+    "average_republican_district_wins": 40.2596,
+    "maximum_total_opportunity_districts": {
+        "37": 152,
+        "44": 132,
+        "50": 122
+    },
+    "minimum_total_opportunity_districts": {
+        "37": 134,
+        "44": 118,
+        "50": 106
+    },
+    "average_total_opportunity_districts": {
+        "37": 143.7312,
+        "44": 125.4482,
+        "50": 112.011
+    }
+}
